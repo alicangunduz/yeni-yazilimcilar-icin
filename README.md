@@ -101,6 +101,6 @@ Gelişme sürecinizde topluluklar oldukça önemlidir. Soru sorabileceğiniz , �
 
 Yukarıda yer alan topluluklara her zaman herkese açık akıl danışabilirsiniz fakat ekstra desteğe ihtiyacınız var ise çevrenizde ki insanlara sorabilirsiniz. Eğer 1:1 koçluk isteğiniz var ise her ay için makul bir ücret ödeyerek benden bu desteği alabilirsiniz. Daha fazla bilgi için hi@alicangunduz.dev veya [@alicangunduzdev twitter](https://twitter.com/AliCanGunduzDev) hesabıma yazabilirsiniz. Hizmet linkim : [https://superpeer.com/alicangunduz/-/kocluk](https://superpeer.com/alicangunduz/-/kocluk) aylık bir ücrettir oradaki saat ilk konuşmamızı belirleme tarihi içindir. 
 
-## 💰 Sponsors
+## 💖 Sponsors
 
 Kaynağımızın ana sponsoru olan aynı zamanda community alanında yer alan [@kamp-us](https://github.com/kamp-us) çok teşekkür ediyorum. Sizlerde sponsor olmak için profilimde ki sponsors alanını kullanabilirsiniz desteklerinizle motive oluyorum. 
