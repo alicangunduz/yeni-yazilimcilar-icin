@@ -1,7 +1,7 @@
 # Yazılım Geliştiricileri için Yol Haritası
 
 ## 👋🏻 Giriş
-Merhabalar bu kaynak yazılıma yeni başlamış geliştiriciler için  tamamen ücretsiz türkçe kaynaklardan oluşturulmuştur 🤑❌ En iyi verimi alabilmek için sizler için hazırlamış olduğumuz yol haritasını lütfen takip edin 🛣️
+Merhabalar bu kaynak yazılıma yeni başlamış geliştiriciler için  tamamen ücretsiz türkçe kaynaklardan oluşturulmuştur 🤑❌ En iyi verimi alabilmek için sizler için hazırlamış olduğumuz yol haritasını lütfen takip edin 🛣️ Kaynağı daha rahat bulmak için sağ üstte yer alan ⭐ butonunu kullanabilirsiniz. 
 
 ## 🗺️ Temel Teknolojiler
 
