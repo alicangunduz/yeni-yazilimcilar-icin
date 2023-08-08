@@ -1,7 +1,7 @@
 # Yazılım Geliştiricileri için Yol Haritası
 
 ## 👋🏻 Giriş
-Merhabalar bu kaynak yazılıma yeni başlamış geliştiriciler için  tamamen ücretsiz türkçe kaynaklardan oluşturulmuştur 🤑❌ En iyi verimi alabilmek için sizler için hazırlamış olduğumuz yol haritasını lütfen takip edin 🛣️ Kaynağı daha rahat bulmak için sağ üstte yer alan ⭐ butonunu kullanabilirsiniz. 
+Merhabalar bu kaynak yazılıma yeni başlamış geliştiriciler için  tamamen ücretsiz türkçe kaynaklardan oluşturulmuştur 🤑❌ En iyi verimi alabilmek için sizler için hazırlamış olduğumuz yol haritasını lütfen takip edin 🛣️ Kaynağı daha sonra rahat bulmak için sağ üstte yer alan ⭐ butonunu kullanabilirsiniz. 
 
 ## 🗺️ Temel Teknolojiler
 
@@ -13,7 +13,7 @@ Merhabalar bu kaynak yazılıma yeni başlamış geliştiriciler için  tamamen 
 - [ ]  [Java](https://www.kodlama.io/p/yazilim-gelistirici-yetistirme-kampi21)
 - [ ]  [Java Spring Boot](https://www.kodlama.io/p/yazilim-gelistirici-yetistirme-kampi21)
 - [ ]  [React](https://www.youtube.com/watch?v=15ZmJBoD9_Y&list=PLXuv2PShkuHzbwIbcT29XZJBLyx3nWDzb)
-- [ ]  [Object-oriented Programming (Nesne Yönelimli Programlama)](https://www.youtube.com/watch?v=2DbWGM5X-zk&list=PLziOoGfzD1POR4-P2NsKgfcJCJu7agdkK)
+- [ ]  [Nesne Yönelimli Programlama - OOP](https://www.youtube.com/watch?v=2DbWGM5X-zk&list=PLziOoGfzD1POR4-P2NsKgfcJCJu7agdkK)
 - [ ]  [Rest API](https://www.youtube.com/watch?v=2s2dp3bxWhI&list=PLr48dQTh3FFzwDwCvkVt8Mjxhfjnw0Scf)
 - [ ]  [MongoDB](https://www.youtube.com/watch?v=K22uRaW03kM&list=PL0BR3UnhlDq6vS6u1eOjCRCBRS7AbufVs)
 
