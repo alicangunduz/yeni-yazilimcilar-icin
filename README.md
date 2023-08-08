@@ -93,7 +93,7 @@ Bu süreçte çalışmalarınızı aksatmamanız ve projeler ile github hesabın
 
 Gelişme sürecinizde topluluklar oldukça önemlidir. Soru sorabileceğiniz , çalışma arkadaşları edinebileceğiniz , yüz yüze veya online etkinliklerine dahil olabileceğiniz ortamlardır. Bu süreç için nasıl soru soracağınızı öğrenmeniz ve her topluluğun kendine has kuralları olduğunu unutmamanız gerekir. Paylaştığım topluluklar öğrendiğiniz yazılım dilleri ile orantılı olup aktif olmasına dikkat ettiğim topluluklardır.
 
--  [Kamp.us](https://discord.gg/kampus) - JavaScript , React.JS , MongoDB
+-  [Kamp.us](https://discord.gg/kampus) - JavaScript , React.JS 
 -  [FolksDev](https://linktr.ee/folksdev) - Java , Spring Boot 
 
 
