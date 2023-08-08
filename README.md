@@ -31,7 +31,7 @@ Merhabalar bu kaynak yazılıma yeni başlamış geliştiriciler için  tamamen 
 
 - [ ]  [Agile Proje Yönetimi](https://www.youtube.com/watch?v=P8QJmwuezz4)
 - [ ]  [Proje Yönetimi Temelleri](https://www.youtube.com/watch?v=3Z8L6fScY2o)
-- [ ]  [Problem Çözme Stratejileri](https://www.youtube.com/watch?v=J98_nddHAa4)
+- [ ]  [Problem Çözme Becerisi](https://www.youtube.com/watch?v=J98_nddHAa4)
 - [ ]  [Teknik Mülakat Hazırlığı](https://www.youtube.com/watch?v=EupkykeoSbE)
 - [ ]  [Zaman Yönetimi](https://www.youtube.com/watch?v=SjTFgVvpvB4)
 - [ ]  [Öğrenmeyi Öğrenmek](https://www.youtube.com/watch?v=EMlNstwTHfU)
