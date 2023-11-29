@@ -103,4 +103,4 @@ Yukarıda yer alan topluluklara her zaman herkese açık akıl danışabilirsini
 
 ## 💖 Sponsors
 
-Kaynağımızın ana sponsoru olan aynı zamanda community alanında yer alan [@kamp-us](https://github.com/kamp-us) çok teşekkür ediyorum. Sizlerde sponsor olmak için profilimde ki sponsors alanını kullanabilirsiniz desteklerinizle motive oluyorum. 
+Sizlerde sponsor olmak için profilimde ki sponsors alanını kullanabilirsiniz desteklerinizle motive oluyorum. 
